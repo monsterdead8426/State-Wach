@@ -1,0 +1,3 @@
+flask
+requests
+# Otras dependencias que necesites
